@@ -1,7 +1,5 @@
 # HOW TO HOST ULTROID USERBOT ON GITHUB WORKFLOWS
 
-[![TELEGRAM](https://img.shields.io/badge/Rendy%20X-738BD7.svg?style=for-the-badge)](https://t.me/rencprx)
-
 # ULTROID USERBOT REPO
 Here - [UlROID](https://github.com/TeamUltroid/Ultroid)
 
@@ -14,4 +12,4 @@ GH_TOKEN
 ```  
 
 
- #By [Randi](https://github.com/Randi356)
+# By [Randi](https://github.com/Randi356)
