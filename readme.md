@@ -8,7 +8,7 @@ Here - [UlROID](https://github.com/TeamUltroid/Ultroid)
 CREDS = github.com/username/reponame
 GitHubName = Your GitHub username
 GitHubMail = Your GitHub E-mail
-GH_TOKEN
+GH_TOKEN = Your GitHub Token
 ```  
 
 
